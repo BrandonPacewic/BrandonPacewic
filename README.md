@@ -1,11 +1,11 @@
 ### Connect With Me:
 
-This is a regular paragraph.
+  <script src="https://unpkg.com/feather-icons"></script>
+  <body>
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+    <i data-feather="circle"></i>
 
-This is another regular paragraph.
+    <script>
+      feather.replace()
+    </script>
+  </body>
