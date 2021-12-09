@@ -1,16 +1,11 @@
 ### Connect With Me:
 
-<!DOCTYPE html>
-<html lang="en">
-  <title></title>
-  <script src="https://unpkg.com/feather-icons"></script>
-  <body>
+This is a regular paragraph.
 
-    <!-- example icon -->
-    <i data-feather="circle"></i>
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
-    <script>
-      feather.replace()
-    </script>
-  </body>
-</html>
+This is another regular paragraph.
