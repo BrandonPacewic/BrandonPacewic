@@ -1,3 +1,5 @@
-### Connect With Me:
+## Connect With Me:
 
-##### - Discord: BrandonPacewic 
+##### - Discord: BrandonPacewic#8324 
+
+##### - Gmail: pacewicbrandon@gmail.com
