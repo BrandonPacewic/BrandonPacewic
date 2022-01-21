@@ -1,4 +1,4 @@
-## Connect With Me:
+## :octocat: Connect With Me:
 
 ##### - Discord: BrandonPacewic#8324 
 
