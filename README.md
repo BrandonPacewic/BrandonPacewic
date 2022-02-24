@@ -1,4 +1,6 @@
-## 📚 Currently Reading: The C++ Programming Language by Bjarne Stroustrup
+## 📚 Currently Reading: 
+
+##### The C++ Programming Language by Bjarne Stroustrup
 
 ## :octocat: Connect With Me:
 
