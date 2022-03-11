@@ -1,4 +1,6 @@
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonPacewic)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](
+    https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contrubs,stars,issues&count_private=true&theme=github_dark
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📑 Currently Reading: 
 
