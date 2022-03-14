@@ -2,6 +2,11 @@
     https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contribs,issues&count_private=true&theme=github_dark&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
+<body class="loading-bar">
+    <p class="loading-bar-paragraph"></p>
+    <script src="./updateReadme.js"></script>
+</body>
+
 ## 📑 Currently Reading: 
 
 ##### The C++ Programming Language 4th Edition by Bjarne Stroustrup
