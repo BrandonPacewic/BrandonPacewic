@@ -5,16 +5,24 @@
 ## 🐦 About Me
 
 My name is Brandon Pacweic and I am a 17 year old programming enthusiast. 
+
 The majority of my knowledge is focused around algorithms and competitive 
-programming. However that is far from the only thing that I have worked on. 
-I dable in webdevelopment, machine learning, data science and most recently 
-game development. I love teaching and learning. 
+programming. 
+
+I dable in webdevelopment, machine learning, data science and 
+most recently game development. 
+
+I'm obsessed with making everything look and feel profeshional.
+
+I take great pride in the syntax and structure of my code.
+
+I love teaching and learning. 
 I get excited about everything invloving software.
 
 ## :octocat: Connect With Me:
 
-##### - Discord: BrandonPacewic#8324 
-
 ##### - Gmail: pacewicbrandon@gmail.com
 
 ##### - Telegram: https://t.me/BrandonPacewic
+
+##### - Discord: BrandonPacewic#8324 
