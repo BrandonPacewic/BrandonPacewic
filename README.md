@@ -6,13 +6,7 @@
 
 My name is Brandon Pacweic and I am a 17 year old programming enthusiast. 
 
-The majority of my knowledge is focused around algorithms and competitive 
-programming. 
-
-I dable in webdevelopment, machine learning, data science and 
-most recently game development. 
-
-I'm obsessed with making everything look and feel profeshional.
+I'm obsessed with making everything look and feel professional.
 
 I take great pride in the syntax and structure of my code.
 
