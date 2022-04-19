@@ -8,15 +8,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: checkout repo content
-      uses: actions/checkout@v2
+  steps:
+    - name: checkout repo content
+    uses: actions/checkout@v2
 
-      -name: setup python
-      uses: actions/setup-python@v2
-      with: 
-        python-version: 3.8
-      
-      -name: execute py script
-      run: |
-        python3 update_readme.py
+    -name: setup python
+    uses: actions/setup-python@v2
+    with: 
+      python-version: 3.8
+    
+    -name: execute py script
+    run: |
+      python3 update_readme.py
