@@ -12,11 +12,11 @@ jobs:
     - name: checkout repo content
     uses: actions/checkout@v2
 
-    -name: setup python
+    - name: setup python
     uses: actions/setup-python@v2
     with: 
       python-version: 3.8
     
-    -name: execute py script
+    - name: execute py script
     run: |
       python3 update_readme.py
