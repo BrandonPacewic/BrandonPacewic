@@ -1,4 +1,3 @@
-
 def main():
     with open('README.md', 'r') as file:
         # get the 5th line
@@ -9,8 +8,6 @@ def main():
             line = f'{line[:len(line)-1]}=\n'
         else:
             line = '\n'
-
-
 
 if __name__ == '__main__':
     main()
