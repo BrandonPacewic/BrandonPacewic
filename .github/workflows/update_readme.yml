@@ -1,22 +1,19 @@
-name: py
+name: Run Python Script
 
 on:
-  schedule:
-    '*/1 * * * *'
+  push:
+    branches: [ mega ]
+  pull_request:
+    branches: [ mega ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-  steps:
-    - name: checkout repo content
-    uses: actions/checkout@v2
-
-    - name: setup python
-    uses: actions/setup-python@v2
-    with: 
-      python-version: 3.8
-    
-    - name: execute py script
-    run: |
-      python3 update_readme.py
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import os
+            os.system(python3 update_readme.py
