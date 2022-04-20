@@ -16,4 +16,4 @@ jobs:
         with:
           script: |
             import os
-            os.system(python3 update_readme.py)
+            os.system('python3 update_readme.py')
