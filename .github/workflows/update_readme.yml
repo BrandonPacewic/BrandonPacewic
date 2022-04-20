@@ -5,6 +5,8 @@ on:
     branches: [ mega ]
   pull_request:
     branches: [ mega ]
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
