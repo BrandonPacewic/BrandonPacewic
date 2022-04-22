@@ -6,13 +6,14 @@
     https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats
 )
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contribs,issues&count_private=true&theme=github_dark&show_icons=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark">
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contribs,issues&count_private=true&theme=github_dark&show_icons=true" alt="GitHub stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark">
+    </a>
+</div>
 
 ## 🐦 About Me
 
