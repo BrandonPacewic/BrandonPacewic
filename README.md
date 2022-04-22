@@ -2,8 +2,6 @@
     https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contribs,issues&count_private=true&theme=github_dark&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
-\=\=\=\=\=\=
-
 ## 🐦 About Me
 
 My name is Brandon Pacweic and I am a 17 year old programming enthusiast. 
