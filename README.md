@@ -20,6 +20,8 @@ I take great pride in the structure of my code.
 I love teaching and learning. 
 I get excited about everything invloving software.
 
+He / Him
+
 ## :octocat: Connect With Me:
 
 ##### - Gmail: pacewicbrandon@gmail.com
