@@ -14,6 +14,8 @@ I get excited about everything invloving software.
 
 He / Him
 
+#### Check out what I'm currently [working on](https://github.com/users/BrandonPacewic/projects/2/views/1) 
+
 ## :octocat: Connect With Me:
 
 ##### - Gmail: pacewicbrandon@gmail.com
