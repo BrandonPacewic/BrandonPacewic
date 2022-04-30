@@ -7,7 +7,7 @@ My name is Brandon Pacweic and I am a 17 year old programming enthusiast.
 
 I'm obsessed with making everything look and feel professional.
 
-I take great pride in the structure of my code.
+I take great pride in the structure and formatting of my code.
 
 I love teaching and learning. 
 I get excited about everything invloving software.
