@@ -1,0 +1,22 @@
+Experience with the following languages in order of Experience:
+1. C++
+2. Python
+3. C#
+4. Typescript
+5. Javascript
+6. Shell
+7. Go
+8. C
+9. R
+
+Extensive experience with competitive programming, including the creation
+of my own tools and algorithms. Primarily in C++
+
+Sound analyser/visualiser used for school concerts. Written in Typescript.
+
+Creater of the Test Samples script for competitive programming as well as 
+Debug and run, for C++ and C. Written in python.
+
+Basic experience with the Tensorflow machine learning library. Following 
+Lex Fridman and his MIT courses on machine learning and deepmind. Python.
+
