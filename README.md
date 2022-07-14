@@ -12,6 +12,8 @@ I take great pride in the structure and formatting of my code.
 I love teaching and learning. 
 I get excited about everything invloving software.
 
+As of July 13th 2022 I am a offical member of the Microsoft Student Learn Ambassador program.
+
 He / Him
 
 - Check out what I'm currently working on [here](https://github.com/users/BrandonPacewic/projects/5?add_cards_query=is%3Aopen).
