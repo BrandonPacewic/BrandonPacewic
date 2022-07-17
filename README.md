@@ -12,7 +12,9 @@ I take great pride in the structure and formatting of my code.
 I love teaching and learning. 
 I get excited about everything invloving software.
 
+<--
 As of July 13th 2022 I am a offical member of the Microsoft Learn Student Ambassador program.
+-->
 
 He / Him
 
