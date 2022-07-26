@@ -18,10 +18,10 @@ He / Him
 - I was on DotNet Live! Check it out [here](https://www.youtube.com/watch?v=RS7g-87CJLU).
 - To any future employers please watch [this](https://youtu.be/RS7g-87CJLU?t=2848) :)
 
-## :octocat: Connect With Me:
+## :octocat: Connect With Me
 
-##### - Gmail: pacewicbrandon@gmail.com
+I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you
 
-##### - Telegram: https://t.me/BrandonPacewic
-
-##### - Discord: BrandonPacewic#8324 
+- Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
+- Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
+- Discord: BrandonPacewic#8324
