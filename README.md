@@ -20,7 +20,7 @@ He / Him
 
 ## :octocat: Connect With Me
 
-I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you
+I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you 💙
 
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
 - Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
