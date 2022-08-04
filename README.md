@@ -1,7 +1,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonPacewic&hide=contribs,issues&count_private=true&theme=github_dark&show_icons=true" alt="GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=4"></a> |
 | ------------ | ------------ |
 
-## 🐦 About Me
+## 🐦 About Me 🐦
 
 My name is Brandon Pacweic and I am a 17 year old programming enthusiast. 
 
@@ -18,7 +18,7 @@ He / Him
 - I was on DotNet Live! Check it out [here](https://www.youtube.com/watch?v=RS7g-87CJLU).
 - To any future employers please watch [this](https://youtu.be/RS7g-87CJLU?t=2848) :)
 
-## :octocat: Connect With Me
+## :octocat: Connect With Me :octocat:
 
 I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you 💙
 
