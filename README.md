@@ -3,7 +3,7 @@
 
 ## 🐦 About Me 🐦
 
-My name is Brandon Pacweic and I am a 17 year old programming enthusiast. 
+My name is Brandon Pacewic and I am a 17 year old programming enthusiast. 
 
 I'm obsessed with making everything look and feel professional.
 
