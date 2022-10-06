@@ -16,7 +16,6 @@ He / Him
 
 - Check out what I'm currently working on [here](https://github.com/users/BrandonPacewic/projects/5?add_cards_query=is%3Aopen).
 - I was on DotNet Live! Check it out [here](https://www.youtube.com/watch?v=RS7g-87CJLU).
-- To any future employers please watch [this](https://youtu.be/RS7g-87CJLU?t=2848) :)
 
 ## :octocat: Connect With Me :octocat:
 
