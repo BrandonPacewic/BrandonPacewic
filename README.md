@@ -9,8 +9,7 @@ I'm obsessed with making everything look and feel professional.
 
 I take great pride in the structure and formatting of my code.
 
-I love teaching and learning. 
-I get excited about everything invloving software.
+I love teaching and learning. I get excited about everything involving technology.
 
 He / Him
 
