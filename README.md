@@ -21,7 +21,7 @@ I love teaching and learning. I get excited about everything involving technolog
 
 I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you 💙
 
-- LinkedIn: [https://www.linkedin.com/in/brandon-pacewic-2023a7236/](https://www.linkedin.com/in/brandon-pacewic-2023a7236/)
+- LinkedIn: [https://www.linkedin.com/in/brandon-pacewic-2023a7236/](https://www.linkedin.com/in/brandon-pacewic/)
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
 - Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
 - Discord: BrandonPacewic#8324
