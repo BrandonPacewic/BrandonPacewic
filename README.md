@@ -15,7 +15,7 @@ I love teaching and learning. I get excited about everything involving technolog
 
 ## :octocat: Connect With Me :octocat:
 
-I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you 💙
+I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you:
 
 - LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
