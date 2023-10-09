@@ -7,15 +7,13 @@
 
 ## 🐦 About Me 🐦
 
-My name is Brandon Pacewic and I am a 18 year old programming enthusiast.
+My name is Brandon Pacewic and I am a 18 year old programming enthusiast studying computer science @ Oregon State University.
 
 I'm obsessed with making everything look and feel professional.
 
 I love teaching and learning. I get excited about everything involving technology.
 
 ## :octocat: Connect With Me :octocat:
-
-I am never too busy to answer a message. If you are curious about anything you think I can help with please feel free to reach out. I would love to hear from you:
 
 - LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
