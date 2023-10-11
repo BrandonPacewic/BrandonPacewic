@@ -7,7 +7,9 @@
 
 ## 🐦 About Me 🐦
 
-My name is Brandon Pacewic and I am a 18 year old programming enthusiast studying computer science @ Oregon State University.
+My name is Brandon Pacewic and I am a 18 year old programming enthusiast.
+
+Currently studying computer science @ Oregon State University.
 
 I'm obsessed with making everything look and feel professional.
 
