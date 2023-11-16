@@ -5,17 +5,7 @@
     <img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
 </p>
 
-## 🐦 About Me 🐦
-
-My name is Brandon Pacewic and I am a 18 year old programming enthusiast.
-
-Currently studying computer science @ Oregon State University.
-
-I'm obsessed with making everything look and feel professional.
-
-I love teaching and learning. I get excited about everything involving technology.
-
-## :octocat: Connect With Me :octocat:
+## :penguin: Connect With Me :octocat:
 
 - YouTube: [https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw](https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw)
 - LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
