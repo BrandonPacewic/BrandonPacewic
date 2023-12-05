@@ -9,7 +9,7 @@
 </p>
 </details>
 
-## :penguin: Connect With Me :octocat:
+### :penguin: Connect With Me :octocat:
 
 - YouTube: [https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw](https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw)
 - LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
