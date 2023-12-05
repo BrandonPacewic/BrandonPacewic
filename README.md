@@ -1,5 +1,5 @@
 <details>
-<summary>"Talk is cheap. Show me the code." - Linus Torvalds</summary>
+<summary> "Talk is cheap. Show me the code." - Linus Torvalds</summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,7 +16,6 @@
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
 - Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <div style="display:flex;">
     <div style="flex:1;border:2px;margin-right:20px;">
         Flex 1
