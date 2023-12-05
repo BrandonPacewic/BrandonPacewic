@@ -2,7 +2,7 @@
 
 <details>
 <summary>Language Stats</summary>
-<img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
 <br>
 
 </details>
