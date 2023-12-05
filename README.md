@@ -1,7 +1,5 @@
-"Talk is cheap. Show me the code." - Linus Torvalds
-
 <details>
-<summary>Language Stats</summary>
+<summary>"Talk is cheap. Show me the code." - Linus Torvalds</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonPacewic&layout=compact&theme=github_dark&hide=html&langs_count=6"></a>
 <br>
 
