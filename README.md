@@ -17,3 +17,6 @@
 - Discord: [@brandonpacewic][https://discord.com/channels/@me/brandonpacewic/]
 
 <img alt="youtube_icon" width="21px" src="assets/youtube_icon.jpg"/>
+<img alt="linkedin_icon" width="21px" src="assets/linkedin_icon.png"/>
+<img alt="mail_icon" width="21px" src="assets/mail_icon.png"/>
+<img alt="discord_icon" width="21px" src="assets/discord_icon.png"/>
