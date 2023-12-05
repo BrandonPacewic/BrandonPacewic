@@ -16,11 +16,22 @@
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
 - Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
 
-<div style="display:flex;">
+<!-- <div style="display:flex;">
     <div style="flex:1;border:2px;margin-right:20px;">
         Flex 1
     </div>
     <div style="flex:1;border:2px;">
         Flex 2
     </div>
+</div> -->
+
+<div align="center">
+    <table >
+     <tr>
+        <td>Thing 1</td>
+     </tr>
+     <tr>
+        <td>Thing 2</td>
+     </tr>
+    </table>
 </div>
