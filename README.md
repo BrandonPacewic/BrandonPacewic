@@ -16,7 +16,7 @@
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
 - Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
 
-
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <div style="display:flex;">
     <div style="flex:1;border:2px;margin-right:20px;">
         Flex 1
