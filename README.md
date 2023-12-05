@@ -9,9 +9,11 @@
 </p>
 </details>
 
-### :penguin: Connect With Me :octocat:
+### 🐧 Connect With Me
 
 - YouTube: [https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw](https://www.youtube.com/channel/UCzAr4Xgtl3Nb9UXeOY-cpRw)
 - LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
 - Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
-- Telegram: [https://t.me/BrandonPacewic](https://t.me/BrandonPacewic)
+- Discord: [@brandonpacewic][https://discord.com/channels/@me/brandonpacewic/]
+
+<img alt="youtube_icon" width="21px" src="assets/youtube_icon.jpg"/>
