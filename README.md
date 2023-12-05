@@ -29,9 +29,11 @@
     <table >
      <tr>
         <td>Thing 1</td>
+        <td>Thing 3</td>
      </tr>
      <tr>
         <td>Thing 2</td>
+        <td>Thing 4</td>
      </tr>
     </table>
 </div>
