@@ -14,4 +14,3 @@
 - <code><img alt="youtube_icon" width="21px" src="assets/youtube_icon.png"/></code> YouTube: [https://www.youtube.com/@brandonpacewic](https://www.youtube.com/@brandonpacewic)
 - <code><img alt="linkedin_icon" width="21px" src="assets/linkedin_icon.png"/></code> LinkedIn: [https://www.linkedin.com/in/brandon-pacewic/](https://www.linkedin.com/in/brandon-pacewic/)
 - <code><img alt="gmail_icon" width="21px" src="assets/gmail_icon.png"/></code> Gmail: [pacewicbrandon@gmail.com](pacewicbrandon@gmail.com)
-- <code><img alt="discord_icon" width="21px" src="assets/discord_icon.png"/></code> Discord: [@brandonpacewic](https://discord.com/channels/@me/brandonpacewic/)
